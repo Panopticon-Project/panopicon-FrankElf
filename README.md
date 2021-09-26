@@ -19,3 +19,5 @@ https://www.securityweek.com/mikrotik-confirms-m%C4%93ris-botnet-targets-routers
 https://news.sophos.com/wp-content/uploads/2020/06/glupteba_final-1.pdf
 
 https://www.trendmicro.com/en_us/research/19/i/glupteba-campaign-hits-network-routers-and-updates-cc-servers-with-data-from-bitcoin-transactions.html
+
+https://www.welivesecurity.com/wp-content/uploads/2014/03/operation_windigo.pdf
