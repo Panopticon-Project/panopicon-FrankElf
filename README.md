@@ -15,3 +15,7 @@ https://blog.qrator.net/en/meris-botnet-climbing-to-the-record_142/
 https://therecord.media/cloudflare-says-it-mitigated-a-record-breaking-17-2m-rps-ddos-attack/
    
 https://www.securityweek.com/mikrotik-confirms-m%C4%93ris-botnet-targets-routers-compromised-years-ago
+
+https://news.sophos.com/wp-content/uploads/2020/06/glupteba_final-1.pdf
+
+https://www.trendmicro.com/en_us/research/19/i/glupteba-campaign-hits-network-routers-and-updates-cc-servers-with-data-from-bitcoin-transactions.html
